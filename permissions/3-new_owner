@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp betty
+sudo hello chown betty
