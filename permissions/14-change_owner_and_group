@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp vincent staff 777
+chgrp -R vincent staff
