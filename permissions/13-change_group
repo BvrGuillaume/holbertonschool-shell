@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school ls -l hello/tmp
+chgrp school/hello/tmp
